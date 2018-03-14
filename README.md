@@ -1,3 +1,4 @@
+# Bitcoin Grinder
 Get your bitcoins easier than ever with the Bitcoin Grinder!  No more fiddling around with Command Prompt!
 
 Is mining bitcoins too complicated? Do you wish mining bitcoins was easy peasy, lemon squeezy?  With the Bitcoin Grinder, making legit profit with bitcoins is now within your grasp!
