@@ -12,3 +12,4 @@ May the grind be long and plentiful.
 Lusin's legit video tutorial on how to use the Bitcoin Grinder: https://youtu.be/gCVX0lhEPEw
 
 ![alt text](https://raw.githubusercontent.com/Lusin333/Grinder-of-Bitcoin/master/Bitcoin%20Grinder%20Icon%20-%20Lusin.png)
+![alt text](https://raw.githubusercontent.com/Lusin333/Bitcoin-Grinder/master/Bitcoin%20Grinder%20Preview%20Pic.png)
