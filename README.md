@@ -5,8 +5,7 @@ Is mining bitcoins too complicated? Do you wish mining bitcoins was very easy?  
 
 **Bitcoin Grinder Download:  https://github.com/Lusin333/Bitcoin-Grinder/releases/download/2017-03-05/Bitcoin.Grinder.exe**
 
-May the grind be long and plentiful.
-
+*May the Grind Be Long and Plentiful.*
 
 
 Lusin's legit video tutorial on how to use the Bitcoin Grinder: https://youtu.be/gCVX0lhEPEw
