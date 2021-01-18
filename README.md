@@ -18,8 +18,9 @@ Is mining bitcoins too complicated? Do you wish mining bitcoins was very easy?  
 ![alt text](https://raw.githubusercontent.com/Lusin333/Bitcoin-Grinder/master/Bitcoin%20Grinder%20Preview%20Pic.png)
 
 ***
+
 ## Follow Lusin
-* [Lusin's Youtube](https://www.youtube.com/c/Lusin333?sub_confirmation=1)
-* [Lusin's Github](https://github.com/Lusin333)
-* [Lusin's Twitter](https://twitter.com/Lusin333)
-* [Lusin's Instagram](https://instagram.com/LusinCriminal)
+* 🎥 [Lusin's Youtube](https://www.Youtube.com/c/Lusin333?sub_confirmation=1)
+* 🐦 [Lusin's Twitter](https://Twitter.com/Lusin333)
+* 📸 [Lusin's Instagram](https://www.instagram.com/LusinMohinder)
+* 👩‍💻 [Lusin's Github](https://Github.com/Lusin333)
