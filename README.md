@@ -24,8 +24,9 @@ Is mining bitcoins too complicated? Do you wish mining bitcoins was very easy?  
 
 ***
 
-## Follow Lusin
+## Follow Lusin333
 * 🎥 [Lusin's Youtube](https://www.Youtube.com/c/Lusin333?sub_confirmation=1)
 * 🐦 [Lusin's Twitter](https://Twitter.com/Lusin333)
 * 📸 [Lusin's Instagram](https://www.instagram.com/Lusin.333)
+* 📽️ [Lusin's TikTok](https://www.tiktok.com/@lusin.333)
 * 👩‍💻 [Lusin's Github](https://Github.com/Lusin333)
