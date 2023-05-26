@@ -31,5 +31,3 @@ Is mining bitcoins too complicated? Do you wish mining bitcoins was very easy?  
 * 📽️ [Lusin333 TikTok](https://www.tiktok.com/@lusin.333)
 * 👩‍💻 [Lusin333 Github](https://Github.com/Lusin333)
 
-***
-![Bitcoin Grinder visitor badge](https://visitor-badge.glitch.me/badge?page_id=Bitcoin_Grinder.visitor-badge&left_text=Bitcoin%20Grinder%20Visitors)
